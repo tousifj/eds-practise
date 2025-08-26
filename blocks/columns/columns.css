@@ -9,11 +9,7 @@
 
 .columns > div > div {
   order: 1;
-  background-color: "green";
-}
-
-.columns > div > div {
-  order: 2;
+  background-color: #fef6ef;
 }
 
 .columns > div > .columns-img-col {
@@ -34,5 +30,6 @@
   .columns > div > div {
     flex: 1;
     order: unset;
+    background-color: #db0081;
   }
 }
