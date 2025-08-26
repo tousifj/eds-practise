@@ -1,10 +1,2 @@
 User-agent: *
 Allow: /
-Disallow: /drafts/
-Disallow: /enrichment/
-Disallow: /tools/
-Disallow: /plugins/experimentation/
-
-x-robots-tag: index, follow
-
-Sitemap: https://www.aemshop.net/sitemap-index.xml
