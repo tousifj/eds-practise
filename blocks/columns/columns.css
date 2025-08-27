@@ -23,6 +23,7 @@
   .columns > div {
     align-items: center;
     flex-direction: unset;
+    #background-color: #fef6ef;
     gap: 24px;
   }
 
